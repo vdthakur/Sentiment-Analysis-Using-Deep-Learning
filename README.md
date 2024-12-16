@@ -2,6 +2,8 @@
 
 This project builds a sentiment classifier for text reviews using deep learning. The task includes data preprocessing, tokenization, word embeddings, and training neural networks to classify reviews as positive or negative.
 
+Data not provided as part of use agreement
+
 ---
 
 ## Table of Contents
