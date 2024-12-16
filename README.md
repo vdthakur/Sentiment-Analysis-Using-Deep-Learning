@@ -10,9 +10,6 @@ This project builds a sentiment classifier for text reviews using deep learning.
 3. [Word Embeddings](#word-embeddings)
 4. [Model Architectures](#model-architectures)
 5. [Results](#results)
-6. [How to Run](#how-to-run)
-7. [Dependencies](#dependencies)
-
 ---
 
 ## Introduction
