@@ -25,7 +25,7 @@ The goal is to classify reviews into positive or negative sentiments using:
 
 ## Data Preprocessing
 
-1. **Sentiment Encoding**: Labels are `1` for positive and `-1` for negative reviews.
+1. **Sentiment Encoding**: Labels are `1` for positive and `0` for negative reviews.
 2. **Data Cleaning**: Remove punctuation and numbers.
 3. **Train-Test Split**: Use `cv000` to `cv699` for training and `cv700` to `cv999` for testing.
 4. **Dataset Statistics**:
